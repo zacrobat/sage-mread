@@ -1,0 +1,9 @@
+$host = "localhost";
+	$username = "admin";
+	$password = "markread7";
+	$database = "markread";
+	
+	
+	WP admin
+	markread
+	telemercure7*
